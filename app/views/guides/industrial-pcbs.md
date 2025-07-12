@@ -1,3 +1,5 @@
+# The checklist for making industrial grade pcbs
+
 So I've been charged with the amazing opportunity of making the badges for undercity. (Thanks acon and alex!) And during this process, I've learnt a lot. So I'm going to write the lessons learnt for future reference :)
 
 *Organizing*
